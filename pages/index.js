@@ -187,9 +187,16 @@ export default function Index({ posts, globalData }) {
   </section>
 
   <section>
-    <h2 className="text-2xl font-semibold mb-4">Reference</h2>
-    <a href='https://www.tumblr.com/tangerangbisnis'>Tangerang Bisnis</a>
+    <h2 className="text-2xl font-semibold mb-4">Referance</h2>
+    <p className="text-lg leading-relaxed mb-4">
+      <a href="https://seoalternatifforall.blogspot.com/2025/08/strategi-seo-untuk-perkembangan-bisnis.html">Strategi SEO</a> <br />
+      <a href="https://www.tumblr.com/tangerangbisnis">Bisnis Di Tangerang</a> <br />
+      <a href="https://tangerangbusineswebsite.jimdosite.com">Website Bisnis Tangerang</a>
+    </p>
+    
   </section>
+
+  
 
 </main>
 
