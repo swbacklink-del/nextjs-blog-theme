@@ -185,6 +185,12 @@ export default function Index({ posts, globalData }) {
       Mulailah sekarang, karena semakin cepat Anda punya website, semakin cepat pula peluang bisnis Anda berkembang.
     </p>
   </section>
+
+  <section>
+    <h2 className="text-2xl font-semibold mb-4">Reference</h2>
+    <a href='https://www.tumblr.com/tangerangbisnis'>Tangerang Bisnis</a>
+  </section>
+
 </main>
 
 
